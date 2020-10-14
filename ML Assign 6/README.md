@@ -9,3 +9,5 @@ The folder also contains a facial_data folder containing AT&T images dataset for
 For installing the libraries run :
 
     pip install numpy, matplotlib, opencv-python, pillow
+
+Copy the folder facial_data from assignment 3 into the ML Assign 6 folder. I will be adding code to read the dataset from anywhere in the repo soon.
